@@ -1,0 +1,44 @@
+.header{
+  width: 1125px;
+  height: 79px;
+  background-color: #F2CEDA;
+  display: flex;
+  flex-direction: column;
+  
+}
+.header__wrapper{
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+.header__wrapper> a{
+  text-decoration: none;
+  color: #150101;
+  cursor: pointer;
+}
+.header__wrapper> a:hover{
+
+  color: #d23166;
+  
+}
+.header__top{
+  width: 1125px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+
+}
+.header__button{
+  width: 169px;
+  height: 49px;
+  background-color: #d23166;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  
+}

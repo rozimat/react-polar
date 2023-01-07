@@ -1,0 +1,46 @@
+.hero{
+  width: 1125px;
+  height: 750px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero__left > span{
+  font-size: 14px;
+  font-weight: 500px;
+  margin-bottom: 6px;
+  color: black;
+
+}
+.hero__left > h1 > span{
+  color: #D23166;
+
+}
+.hero__left > h1{
+  width: 550px;
+  height: 130px;
+  font-size: 57px;
+  font-weight: 400;
+  line-height: 70px;
+  color: black;
+  margin-bottom: 35px;
+}
+.hero__left >p{
+  width: 523px;
+  height: 78px;
+}
+.hero__left> button{
+  width: 169px;
+  height: 49px;
+  background-color: #d23166;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+.hero__right > img{
+  width: 579px;
+  height: 579px;
+
+}

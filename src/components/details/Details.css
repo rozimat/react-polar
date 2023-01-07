@@ -1,0 +1,37 @@
+.details{
+  width: 1125px;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F2CEDA;
+  margin-top: 50px;
+
+}
+.details__left> h2{
+  width: 300px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44.2px;
+  line-height: 49px;
+  margin-bottom: 16px;
+
+}
+.details__left> p{
+  width: 442px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 35px;
+}
+.details__left> button{
+  width: 169px;
+  height: 49px;
+  background-color: #d23166;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}

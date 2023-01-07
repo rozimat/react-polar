@@ -1,0 +1,14 @@
+.main{
+  width: 1125px;
+  padding-top: 100px ;
+  display: grid;
+  place-items: center;
+}
+.main>h3{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44.2px;
+  line-height: 61px;
+  margin-bottom: 65px;
+  
+}
